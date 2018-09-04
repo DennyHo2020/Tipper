@@ -35,7 +35,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Challenges: 
+I decided to attempt to add more features to the app and make it look better, but while I was doing the app just stopped working and would not even run. I also noticed the colors on the workspace view did not match that of the xcode simulator which was really frustrating. I basically had to redo the app and I just kept it with its rudementary functions. 
 
 ## License
 
