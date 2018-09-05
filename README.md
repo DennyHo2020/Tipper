@@ -27,8 +27,6 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
 ![tipper](https://user-images.githubusercontent.com/31720526/45049714-4bb8f280-b034-11e8-8a21-1f27413406e8.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
@@ -36,7 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Challenges: 
-I decided to attempt to add more features to the app and make it look better, but while I was doing the app just stopped working and would not even run. I also noticed the colors on the workspace view did not match that of the xcode simulator which was really frustrating. I basically had to redo the app and I just kept it with its rudementary functions. 
+I decided to attempt to add more features to the app and make it look better, but while I was adding things the app just stopped working and would not even run. I also noticed the colors on the workspace view did not match that of the xcode simulator which was really frustrating. I basically had to redo the app and I just kept it with its rudementary functions. 
 
 ## License
 
